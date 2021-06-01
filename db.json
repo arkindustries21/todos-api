@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "todoName": "Make a live todos",
+      "task": "Make your own live todo list",
+      "isDone": false
+    },
+    {
+      "id": 1,
+      "todoName": "Make a more live projects",
+      "task": "Make customer projects",
+      "isDone": false
+    }
+  ]
+}
